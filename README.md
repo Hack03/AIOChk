@@ -4,7 +4,7 @@
 
 Genera cuentas autopay "autopagables".Este proyecto tiene fines educativos y/o demostrativos.
 
-Tenemos un grupo en facebook > https://www.facebook.com/groups/275991826662363
+
 
 ## Novedades
 > - Checkeo de version.
@@ -33,7 +33,7 @@ INSTALAMOS PHP y GIT para clonar el repositorio...
 
 > 3. pkg install php git -y
 
-> 4. git clone https://github.com/Juni0r007/AIOChk.git
+> 4. git clone https://github.com/Hack03/AIOChk.git
 
 > 5. ls
 
