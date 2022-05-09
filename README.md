@@ -72,4 +72,4 @@ Son cuentas  obtenidas con Sentry MBA y PasteBin [Termux pero no todas] en si es
 
 ## Anexos
 
-- Generador de combos en Termux > https://github.com/Juni0r007/PasTerm
+- Generador de combos en Termux > https://github.com/Hack03/PasTerm
